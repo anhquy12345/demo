@@ -33,10 +33,9 @@
     margin-top: 5px
 }
 
-.menu{
-    width: 400px;
-    float: left;
-    height: 70px;
+.logo{
+    height: 10%;
+    width: 50%;
 }
 
 ul{
